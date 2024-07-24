@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Aqil</h1>
-<h3 align="center">A Passionate IoT and Cloud Engineer from Indonesia</h3>
-
 
 - 🔭 I’m currently working on **IoT and Cloud Computing Project**
 
