@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aqil</h1>
 
-- 🔭 I’m currently working on **IoT and Cloud Computing Project**
-
-- 🌱 I’m currently learning **Cloud Automation and IT Governance**
+- 🔭 I’m currently working on **Backend, IoT, and Cloud Computing Project**
 
 - 👯 I’m looking to collaborate on **IoT and Cloud Computing based Project**
 
@@ -19,3 +17,4 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aqilsulthan&show_icons=true&locale=en&layout=compact" alt="aqilsulthan" style="margin-right: 10px;" />
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aqilsulthan&" alt="aqilsulthan" />
 </p>
+
