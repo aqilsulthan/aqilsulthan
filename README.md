@@ -91,7 +91,11 @@ const aqil = {
 
 ## 🏆 GitHub Trophies
 
-[![](https://github-trophies.vercel.app/?username=aqilsulthan)](https://github-trophies.vercel.app/?username=aqilsulthan)
+<div align="center">
+
+[![](https://github-trophies.vercel.app/?username=aqilsulthan&theme=darkhub)](https://github-trophies.vercel.app/?username=aqilsulthan&theme=darkhub)
+
+</div>
 
 ## 📈 Contribution Graph
 
