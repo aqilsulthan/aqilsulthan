@@ -101,7 +101,7 @@ const aqil = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aqilsulthan&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/aqilsulthan/aqilsulthan/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ## 🐍 Contribution Snake
@@ -118,13 +118,5 @@ const aqil = {
   
 ### 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-  
-**"Code is like humor. When you have to explain it, it's bad."** – Cory House
 
 </div>
