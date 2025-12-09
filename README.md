@@ -112,8 +112,6 @@ const aqil = {
   <img alt="github-snake" src="https://raw.githubusercontent.com/aqilsulthan/aqilsulthan/output/github-snake-dark.svg" />
 </picture>
 
----
-
 <div align="center">
   
 ### 💭 Random Dev Quote
