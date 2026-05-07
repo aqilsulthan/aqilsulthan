@@ -17,7 +17,7 @@ const aqil = {
         backend: ["Node.js", "Express", "FastAPI"],
         cloud: ["AWS", "Google Cloud", "Azure", "Docker", "Firebase"],
         iot: ["Arduino", "Raspberry Pi", "ESP32", "MQTT"],
-        databases: ["MongoDB", "PostgreSQL", "Redis", "Firestore"],
+        databases: ["Supabase", "PostgreSQL", "Redis", "Firestore"],
         misc: ["REST APIs", "GraphQL", "WebSockets"]
     },
     currentFocus: "Building scalable IoT solutions with cloud integration",
